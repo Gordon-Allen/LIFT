@@ -16,5 +16,4 @@ urlpatterns = [
     url(r'^(?P<user_id>\d+)/update$', views.update),
     url(r'^(?P<workout_id>\d+)/my_workout$', views.my_workout),
     url(r'^(?P<workout_id>\d+)/remove_workout$', views.remove_workout),
-
 ]

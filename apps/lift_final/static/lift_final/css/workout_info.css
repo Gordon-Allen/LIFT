@@ -4,17 +4,14 @@
     width: 100%;
     border-radius: 7px;
     font-size: 20px;
-
- }
- .navbar-brand h2{
-     display: inline-block;
-     font-size: 31px;
- }
-
+}
+.navbar-brand h2{
+    display: inline-block;
+    font-size: 31px;
+}
 h1{
     color: #F1671E;
 }
-
 h4{
     display: inline-block;
     border-style: solid;
@@ -24,7 +21,6 @@ h4{
 .info{
     padding:20px;
 }
-
 .info h4{
     padding:20px;
     text-align: center;
@@ -34,7 +30,6 @@ h4{
 .info h1{
     text-align: center;
 }
-
 a{
     color:#F1671E;
 }
@@ -44,8 +39,7 @@ body{
     margin: auto;
     width: auto;
 }
-
-.info button {
+.info button{
     background-color: #F1671E;
     color: white;
     font-weight: bold;
@@ -62,13 +56,11 @@ body{
     font-size: 18px;
     border-color: #F1671E;
     width: 100px;
- }
-
- .workout-info-buttons {
-     text-align: center;
- }
-
- .workout-info-buttons button {
+}
+.workout-info-buttons{
+    text-align: center;
+}
+.workout-info-buttons button{
     background-color: #F1671E;
     color: white;
     font-weight: bold;
@@ -77,4 +69,4 @@ body{
     border-color: #F1671E;
     width: 250px;
     margin: 1% 0% 0% 0%;
- }
+}
